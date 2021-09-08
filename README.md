@@ -4,7 +4,7 @@ Simple
 =====
 
 
-Your contributions and comments are welcome. See [CONTRIBUTING.md](https://github.com/nexuspcs/Simple-HTML-CSS/blob/gh-pages/CONTRIBUTING.md) for more information.
+Your contributions and comments are welcome. See [CONTRIBUTING.md](https://github.com/nexuspcs/Simple-HTML-CSS/blob/main/CONTRIBUTING.md) for more information.
 
 The [Developer's Guide](https://docs.google.com/document/d/1rdetLH8RrOxPEe_fWgiHKPq8GiFG5QuSQ8YlzMMr2LI) for this repo has more information about code style, structure and validation.
 
