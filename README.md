@@ -1,16 +1,10 @@
-[![Build Status](https://travis-ci.org/samdutton/simpl.svg)](https://travis-ci.org/samdutton/simpl)
 
 
-<div style="border: 1px solid #eee; padding: 10px">
-  <p>Check out my blog post: <a href="//samdutton.wordpress.com/2015/04/02/high-performance-html/" title="Blog post about how to write clean, concise HTML">High performance HTML</a>.</p>
-</div>
-
-simpl
+Simple
 =====
 
-[simpl.info](http://www.simpl.info) is a website for simplest-possible code examples.
 
-Your contributions and comments are welcome. See [CONTRIBUTING.md](https://github.com/samdutton/simpl/blob/gh-pages/CONTRIBUTING.md) for more information.
+Your contributions and comments are welcome. See [CONTRIBUTING.md](https://github.com/nexuspcs/Simple-HTML-CSS/blob/gh-pages/CONTRIBUTING.md) for more information.
 
 The [Developer's Guide](https://docs.google.com/document/d/1rdetLH8RrOxPEe_fWgiHKPq8GiFG5QuSQ8YlzMMr2LI) for this repo has more information about code style, structure and validation.
 
